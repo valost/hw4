@@ -18,7 +18,7 @@ div {
     color: grey;
     font-size: 22px;
     background-color: yellow;
-    border: 2px;
+    border: 2px solid orange;
 }
 
 p {
@@ -37,7 +37,7 @@ img {
 
 span {
     color: lightskyblue;
-    border: 1px;
+    border: 1px dotted pink;
 }
 
 a {
