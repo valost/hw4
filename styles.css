@@ -9,12 +9,37 @@ body {
     height: 100%;
 }
 
+h1 {
+    color: green;
+    font-size: 32px;
+}
+
+div {
+    color: grey;
+    font-size: 22px;
+    background-color: yellow;
+    border: 2px;
+}
+
+p {
+    color: blue;
+}
+
+li {
+    color: purple;
+    font-size: 26px;
+}
+
 img {
     width: 400px;
     height: 200px;
 }
 
-h1 {
-    color: green;
-    font-size: 32px;
+span {
+    color: lightskyblue;
+    border: 1px;
+}
+
+a {
+    color: red;
 }
