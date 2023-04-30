@@ -35,8 +35,8 @@ img {
     height: 200px;
 }
 
-span {
-    color: lightskyblue;
+.country {
+    color: darkcyan;
     border: 1px dotted pink;
 }
 
