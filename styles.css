@@ -9,11 +9,13 @@ body {
     height: 100%;
 }
 
+/* set the color to green and the font size to 32 pixels */
 .travel {
     color: green;
     font-size: 32px;
 }
 
+/* set the color to grey, the font size to 22 pixels, the background color to yellow and the border to 2 pixels, solid, orange color */
 #links {
     color: grey;
     font-size: 22px;
@@ -21,25 +23,30 @@ body {
     border: 2px solid orange;
 }
 
+/* set the color to blue */
 .christmas {
     color: blue;
 }
 
+/* set the color to purple and  the font size  to 26 pixels */
 li {
     color: purple;
     font-size: 26px;
 }
 
+/* set the image width to 400 pixels and the height to 200 pixels */
 img {
     width: 400px;
     height: 200px;
 }
 
+/* set the color to darkcyan and the border to 1 pixel, dotted, pink */
 .country {
     color: darkcyan;
     border: 1px dotted pink;
 }
 
+/* set the color to red */
 a {
     color: red;
 }
